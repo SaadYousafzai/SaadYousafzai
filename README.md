@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaadYousafzai
-- 👀 I’m interested in collaborating on porjects.
-- 🌱 I’m currently learning Java, Python, HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on Java and HTML/CSS projects.
+- 👀 I blog about and work with Cryptocurrencies (specifically Cardano)
+Blog:
+
 
 <!---
 SaadYousafzai/SaadYousafzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
